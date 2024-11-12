@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cardcontainer-one {
+    border-radius: 20px;
+    border-color: black;
+    background-color: white;
+    padding: 18px;
+    margin: 20px;
+}
+
+.cardcontainer {
+    background-color: #e5eaf5;
+    height: 220vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.intern-type {
+    background-color: #90EE90;
+    padding: 7px;
+    font-family: "Roboto";
+    border-radius: 15px;
+    width: 15vw;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.Stipend {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 23px;
+    margin: 20px;
+
+}
+
+.Job-heading {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.iconstyle {
+    color: #7EC8E3;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.conn {
+    padding-right: 10px;
+}
+
+.Skills {
+    border-radius: 15px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-color: transparent;
+    padding: 7px;
+    font-family: "Roboto";
+    width: 17vw;
+    text-align: center;
+    margin: 10px;
+}
+
+.More-Skills {
+    border-radius: 15px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #7EC8E3;
+    padding: 7px;
+    font-family: "Roboto";
+    width: 17vw;
+    text-align: center;
+    margin: 10px;
+}
+
+.hrline {
+    color: #7b8794;
+    width: 25vw;
+}
+
+.description {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.head {
+    color: Black;
+    font-family: "Roboto";
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.viewjob {
+    border-radius: 15px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-color: transparent;
+    padding: 8px;
+    font-family: "Roboto";
+    width: 19vw;
+    text-align: center;
+    margin: 10px;
+}
+
+.intern-type1 {
+    background-color: orange;
+    padding: 7px;
+    font-family: "Roboto";
+    border-radius: 15px;
+    width: 17vw;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
